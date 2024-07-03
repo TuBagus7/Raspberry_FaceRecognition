@@ -1,0 +1,6 @@
+*.vscode
+__pycache__/
+myvenv/
+testing/
+dataset/
+encodings.pickle
